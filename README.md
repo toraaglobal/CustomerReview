@@ -10,7 +10,7 @@ Customer Review Sentiment and Authenticity Classification Using Benoulli and Mul
 
 ***
 
-### Accuracy Score for 10 Fold Cross Validation of Lie Classifier**
+### Accuracy Score for 10 Fold Cross Validation of the Lie Classifier
 ![accuracy_score_lie](https://github.com/toraaglobal/CustomerReview/blob/master/Accuracy_Score_Lie.jpg)
 
 ***
