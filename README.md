@@ -1,4 +1,4 @@
-# CustomerReview
+# RESTAURANT REVIEWS
 Customer Review Sentiment and Authenticity Classification Using Benoulli and Multinomial Naive Bayes
 ***
 [Click here for the Analysis Report]()
